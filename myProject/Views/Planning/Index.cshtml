@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model  myProject.ViewModels.IndexViewModels
+
+<h1>Plan a trip</h1>
+
+<form asp-controller="Planning" asp-action="Add" method="post">
+    <div>
+        <label asp-for="Activity"></label>
+        <input asp-for="Activity" />
+        <span asp-validation-for="Activity"></span>
+    </div> 
+
+    <div>
+        <label asp-for="Location"></label>
+        <input asp-for="Location" />
+        <span asp-validation-for="Location"></span>
+    </div>
+    
+    <div>
+        <label asp-for="Date"></label>
+        <input asp-for="Date" />
+        <span asp-validation-for="Date"></span>
+    </div> 
+
+    <input type="submit" value="Submit Trip" />
+</form>

@@ -1,0 +1,12 @@
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\bin\Debug\netcoreapp2.0\myProject.deps.json
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\bin\Debug\netcoreapp2.0\myProject.runtimeconfig.json
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\bin\Debug\netcoreapp2.0\myProject.runtimeconfig.dev.json
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\bin\Debug\netcoreapp2.0\myProject.dll
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\bin\Debug\netcoreapp2.0\myProject.pdb
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\obj\Debug\netcoreapp2.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\obj\Debug\netcoreapp2.0\myProject.AssemblyInfoInputs.cache
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\obj\Debug\netcoreapp2.0\myProject.AssemblyInfo.cs
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\obj\Debug\netcoreapp2.0\myProject.dll
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\obj\Debug\netcoreapp2.0\myProject.pdb
+C:\Users\Evelyn\Documents\Visual Studio 2017\Projects\Project\myProject\myProject\obj\Debug\netcoreapp2.0\myProject.csprojResolveAssemblyReference.cache

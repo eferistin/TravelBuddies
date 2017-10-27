@@ -1,0 +1,33 @@
+﻿
+.house {
+    width: 1000px;
+    background-color: red;
+
+    &.person {
+        background-color: yellow;
+        border: 2px solid black;
+
+        &.clothes {
+            background-color: blue;
+            color: white;
+        }
+    }
+}
+
+
+/*
+.house{
+    width:1000px;
+    background-color:red;
+}
+
+.house .person{
+    background-color:yellow;
+    border: 2px solid black;
+}
+
+.house .person .clothes{
+    background-color: blue;
+    color:white;
+}
+*/
